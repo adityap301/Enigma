@@ -20,31 +20,31 @@ Our project has the following structure:
     * routes
     * utils
 
-  ### 1. Docs
+  #### 1. Docs
   This contains all the markdown files for the documentation of the project, which is visualized on Docsify.
   
-  ### 2. Node Modules
+  #### 2. Node Modules
   Contains project dependencies.
 
-  ### 3. Config
+  #### 3. Config
   This contains all the configuration files; like database connectivity, winston setup, etc.
 
-  ### 4. Controllers
+  #### 4. Controllers
   This contains all the REST API end-points.
 
-  ### 5. GraphQL
+  #### 5. GraphQL
   This contains schema files, queries and mutations for GraphQL API.
 
-  ### 6. Middleware
+  #### 6. Middleware
   This contains all the middleware functions of the request-response pipeline.
 
-  ### 7. Models
+  #### 7. Models
   This contains all the mongoDB schema.
 
-  ### 8. Routes
+  #### 8. Routes
   This contains all the routes for REST API.
 
-  ### 9. Utils
+  #### 9. Utils
   This contains all the helper functions associated with other endpoints.
 
 ## Getting Started
