@@ -3,6 +3,7 @@
 - Reference
 
     - [Overview](overview.md)
+    - [Frontend](frontend.md)
     - [Query](query.md)
     - [Mutation](mutation.md)
     - [Special Inputs](inputs.md)
